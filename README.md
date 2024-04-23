@@ -1,0 +1,1 @@
+This project is done to predict solar radiation using 6 independent variables namely Aerosol Optical Depth, Cloud Optical Depth, UV Aerosol Index, Precipitable Water Vapour, Cloud Fraction, Angstrom Exponent.
